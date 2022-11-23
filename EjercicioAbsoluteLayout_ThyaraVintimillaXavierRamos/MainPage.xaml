@@ -23,6 +23,7 @@
         <Label Text="Thyara Vintimilla y Xavier Ramos"
                AbsoluteLayout.LayoutBounds="0.5,0.5,110,50"
                AbsoluteLayout.LayoutFlags="PositionProportional" />
+        
     </AbsoluteLayout>
     
 </ContentPage>
