@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="EjercicioAbsoluteLayout_ThyaraVintimillaXavierRamos.MainPage">
 
-    <AbsoluteLayout Background="Silver">
+    <AbsoluteLayout Background="Orange">
         <BoxView Color="Yellow"
                  AbsoluteLayout.LayoutBounds="0.5,0,100,50"
                  AbsoluteLayout.LayoutFlags="PositionProportional" />
