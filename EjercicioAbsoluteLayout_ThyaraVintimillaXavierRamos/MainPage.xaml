@@ -4,17 +4,17 @@
              x:Class="EjercicioAbsoluteLayout_ThyaraVintimillaXavierRamos.MainPage">
 
     <AbsoluteLayout>
-        <BoxView Color="Blue"
-                 AbsoluteLayout.LayoutBounds="0.5,0,100,25"
+        <BoxView Color="Yellow"
+                 AbsoluteLayout.LayoutBounds="0.5,0,100,50"
                  AbsoluteLayout.LayoutFlags="PositionProportional" />
-        <BoxView Color="Green"
+        <BoxView Color="Blue"
                  AbsoluteLayout.LayoutBounds="0,0.5,25,100"
                  AbsoluteLayout.LayoutFlags="PositionProportional" />
         <BoxView Color="Red"
                  AbsoluteLayout.LayoutBounds="1,0.5,25,100"
                  AbsoluteLayout.LayoutFlags="PositionProportional" />
         <BoxView Color="Black"
-                 AbsoluteLayout.LayoutBounds="0.5,1,100,25"
+                 AbsoluteLayout.LayoutBounds="0.5,1,100,50"
                  AbsoluteLayout.LayoutFlags="PositionProportional" />
         <Label Text="Thyara Vintimilla y Xavier Ramos"
                AbsoluteLayout.LayoutBounds="0.5,0.5,110,50"
